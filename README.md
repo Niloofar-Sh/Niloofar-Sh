@@ -8,6 +8,5 @@ I'm an experienced Algorithm Engineer with a strong background in machine learni
 - 🌱 I’m currently learning GenAI.
 - 👯 I’m looking to collaborate on AI/ML projects and data-driven algorithm developments.
 - 📫 How to reach me: https://www.linkedin.com/in/niloofar-shahidi-0b9b7155
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I keep inventing random food recipes and although I haven't received much encouragement I never give up :sweat_smile:
+- 😄 Fun fact: I keep inventing random food recipes. So far I haven't received much encouragement but :punch: WON'T give up :punch: :sweat_smile:
 
