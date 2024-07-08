@@ -10,3 +10,15 @@ I'm an experienced Algorithm Engineer with a strong background in machine learni
 - 📫 How to reach me: https://www.linkedin.com/in/niloofar-shahidi-0b9b7155
 - 😄 Fun fact: I keep inventing random food recipes. So far I haven't received much encouragement but :punch: WON'T give up :punch: :sweat_smile:
 
+Languages:
+
+- Python
+- C
+- XML
+
+Coding Tools:
+
+- Visual Code Studio
+- Jupyter Notebook
+- Pycharm
+
