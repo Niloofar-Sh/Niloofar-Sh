@@ -1,17 +1,16 @@
-## Hi there 👋
+## About Me:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Niloofar-Sh/Niloofar-Sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an experienced Algorithm Engineer with a strong background in machine learning, and data processing. I have developed and implemented web-based applications and ML solutions. Skilled in cross-functional collaboration, I'm constantly curious to learn new concepts. Skilled at converting complex data insights into practical recommendations and creating narratives that enhance understanding and engagement. 
+
+
+- 🌱 I’m currently learning GenAI.
+- 👯 I’m looking to collaborate on AI/ML projects and data-driven algorithm developments.
+- 📫 How to reach me: https://www.linkedin.com/in/niloofar-shahidi-0b9b7155
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I keep inventing random food recipes and although I haven't received much encouragement I never give up :sweat_smile:
+-->  
