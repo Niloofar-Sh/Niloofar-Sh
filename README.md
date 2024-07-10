@@ -35,6 +35,10 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+## Documentation:
+
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+
  
 I'm an experienced Algorithm Engineer with a strong background in machine learning, and data processing. I have developed and implemented web-based applications and ML solutions. Skilled in cross-functional collaboration, I'm constantly curious to learn new concepts. Skilled at converting complex data insights into practical recommendations and creating narratives that enhance understanding and engagement. 
 
