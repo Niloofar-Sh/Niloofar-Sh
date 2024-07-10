@@ -1,7 +1,7 @@
 ## About Me:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Niloofar-Sh)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Niloofar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niloofar-Sh&show_icons=true&theme=radical)
+![Niloofar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niloofar-Sh&hide=stars&theme=radical)
 
 I'm an experienced Algorithm Engineer with a strong background in machine learning, and data processing. I have developed and implemented web-based applications and ML solutions. Skilled in cross-functional collaboration, I'm constantly curious to learn new concepts. Skilled at converting complex data insights into practical recommendations and creating narratives that enhance understanding and engagement. 
 
@@ -13,7 +13,7 @@ I'm an experienced Algorithm Engineer with a strong background in machine learni
 
 ## Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niloofar-Sh&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niloofar-Sh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Coding Tools:
