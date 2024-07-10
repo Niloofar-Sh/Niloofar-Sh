@@ -1,6 +1,4 @@
 ## About Me:
-(https://badges.pufler.dev/years/{Niloofar-Sh})
-
 [![Years Badge](https://badges.pufler.dev/years/Niloofar-Sh)](https://badges.pufler.dev)
 
 
