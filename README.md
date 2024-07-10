@@ -3,8 +3,7 @@ Years being a member:
 
 [![Years Badge](https://badges.pufler.dev/years/Niloofar-Sh)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Niloofar-Sh)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/Niloofar-Sh)](https://badges.pufler.dev)
-
+[![Contributors Display](https://badges.pufler.dev/contributors/Niloofar-Sh/badge-it?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
 
 
 
