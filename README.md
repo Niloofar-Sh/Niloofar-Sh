@@ -13,7 +13,7 @@ I'm an experienced Algorithm Engineer with a strong background in machine learni
 
 ## Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niloofar-Sh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niloofar-Sh&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Coding Tools:
