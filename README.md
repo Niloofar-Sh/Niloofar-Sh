@@ -1,5 +1,4 @@
 ## About Me:
-Years being a member:
 
 [![Years Badge](https://badges.pufler.dev/years/Niloofar-Sh)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Niloofar-Sh)](https://badges.pufler.dev)
@@ -9,14 +8,6 @@ Years being a member:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Niloofar-Sh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Niloofar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niloofar-Sh&hide=contribs&theme=radical)
-
-I'm an experienced Algorithm Engineer with a strong background in machine learning, and data processing. I have developed and implemented web-based applications and ML solutions. Skilled in cross-functional collaboration, I'm constantly curious to learn new concepts. Skilled at converting complex data insights into practical recommendations and creating narratives that enhance understanding and engagement. 
-
-
-- 🌱 I’m currently learning GenAI.
-- 👯 I’m looking to collaborate on AI/ML projects and data-driven algorithm developments.
-- 📫 How to reach me: https://www.linkedin.com/in/niloofar-shahidi-0b9b7155
-- 😄 Fun fact: I keep inventing random food recipes. So far I haven't received much encouragement but :punch: WON'T give up :punch: :sweat_smile:
 
 ## Languages:
 
@@ -43,5 +34,15 @@ I'm an experienced Algorithm Engineer with a strong background in machine learni
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
  
+I'm an experienced Algorithm Engineer with a strong background in machine learning, and data processing. I have developed and implemented web-based applications and ML solutions. Skilled in cross-functional collaboration, I'm constantly curious to learn new concepts. Skilled at converting complex data insights into practical recommendations and creating narratives that enhance understanding and engagement. 
+
+
+- 🌱 I’m currently learning GenAI.
+- 👯 I’m looking to collaborate on AI/ML projects and data-driven algorithm developments.
+- 📫 How to reach me: https://www.linkedin.com/in/niloofar-shahidi-0b9b7155
+- 😄 Fun fact: I keep inventing random food recipes. So far I haven't received much encouragement but :punch: WON'T give up :punch: :sweat_smile:
+
+
 
