@@ -58,7 +58,7 @@ I'm an experienced Algorithm Engineer with a strong background in machine learni
 
 - 🌱 I’m currently learning GenAI.
 - 👯 I’m looking to collaborate on AI/ML projects and data-driven algorithm developments.
-- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/niloofar-shahidi-0b9b7155
+- 📫 How to reach me: https://www.linkedin.com/in/niloofar-shahidi-0b9b7155
 - 😄 Fun fact: I keep inventing random food recipes. So far I haven't received much encouragement but :punch: WON'T give up :punch: :sweat_smile:
 
 
