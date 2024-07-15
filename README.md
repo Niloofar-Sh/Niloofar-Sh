@@ -7,7 +7,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Niloofar-Sh)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Niloofar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niloofar-Sh&hide=contribs&theme=radical)
 
 ## Languages:
 
