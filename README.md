@@ -56,7 +56,7 @@
 ## Other Tools:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GeoPandas' src='https://img.shields.io/badge/GeoPandas-100000?style=for-the-badge&logo=GeoPandas&logoColor=F6F7F6&labelColor=12A901&color=13AD02'/></a>
-
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Folium' src='https://img.shields.io/badge/Folium-100000?style=plastic&logo=Folium&logoColor=05D705&labelColor=FFFFFF&color=FFFFFF'/></a>
  
 I'm an experienced Algorithm Engineer with a strong background in machine learning, and data processing. I have developed and implemented web-based applications and ML solutions. Skilled in cross-functional collaboration, I'm constantly curious to learn new concepts. Skilled at converting complex data insights into practical recommendations and creating narratives that enhance understanding and engagement. 
 
