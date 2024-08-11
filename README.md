@@ -60,7 +60,7 @@
 I'm an experienced Algorithm Engineer with a strong background in machine learning, and data processing. I have developed and implemented web-based applications and ML solutions. Skilled in cross-functional collaboration, I'm constantly curious to learn new concepts. Skilled at converting complex data insights into practical recommendations and creating narratives that enhance understanding and engagement. 
 
 
-- 🌱 I’m currently learning NLP & Computer Vision.
+- 🌱 I’m currently focusing on NLP & Computer Vision.
 - 👯 I’m looking to collaborate on AI/ML projects and data-driven algorithm developments.
 - 📫 How to reach me: www.linkedin.com/in/niloofar-shahidi-nz
 - 😄 Fun fact: I keep inventing random food recipes. So far I haven't received much encouragement but :punch: WON'T give up :punch: :sweat_smile:
